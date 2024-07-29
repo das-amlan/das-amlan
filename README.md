@@ -1,7 +1,19 @@
 <div align="center">
+  <img height="200" src="github-header-image.png"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/das-amlan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=das-amlan.das-amlan&"  />
 </div>
 
 ###
@@ -56,7 +68,8 @@
 
 ###
 
-<!---
-das-amlan/das-amlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=das-amlan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
